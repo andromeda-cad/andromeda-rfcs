@@ -1,6 +1,6 @@
 - Feature name: Language and library choices
-- RFC pull request:
-- Issue:
+- RFC pull request: #0012
+- Issue: N/A
 
 # Summary
 [summary]: #summary
